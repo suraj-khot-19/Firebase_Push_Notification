@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:702343171110:android:ccf5df5d3003db442e2ae7",
         "android_client_info": {
-          "package_name": "com.push_noti.app"
+          "package_name": "com.example.push_notification"
         }
       },
       "oauth_client": [],
