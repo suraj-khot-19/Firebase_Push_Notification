@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702343171110",
+    "project_id": "fir-pushnoti-5bd33",
+    "storage_bucket": "fir-pushnoti-5bd33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702343171110:android:ccf5df5d3003db442e2ae7",
+        "android_client_info": {
+          "package_name": "com.push_noti.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPez3JH_YwYVOhJV82PtF46FGKn_gFUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
